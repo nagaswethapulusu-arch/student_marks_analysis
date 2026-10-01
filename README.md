@@ -75,6 +75,6 @@ Lowest: Meena (62)
 
 SwethaPulusu
 
-#deploymentlink
+#Live Demo
 
 https://studentmarksanalysis-y2rh5wvpjfptd2qcfxcc8l.streamlit.app/
