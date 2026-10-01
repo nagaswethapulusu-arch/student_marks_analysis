@@ -74,3 +74,7 @@ Lowest: Meena (62)
 ## Author
 
 SwethaPulusu
+
+#deploymentlink
+
+https://studentmarksanalysis-y2rh5wvpjfptd2qcfxcc8l.streamlit.app/
